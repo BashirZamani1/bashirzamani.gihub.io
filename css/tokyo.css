@@ -29,7 +29,7 @@
   width: 6px;
   height: 6px;
   z-index: 50;
-  background-color: #ffb400;
+  background-color: #fa5b0f;
   -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
   transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 }
@@ -46,7 +46,7 @@
   margin-top: -15px;
   width: 30px;
   height: 30px;
-  border: 2px solid #ffb400;
+  border: 2px solid #fa5b0f;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 50;

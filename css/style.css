@@ -549,9 +549,9 @@ body.light hr.separator {
 	right: 40px;
 	animation: morph 8s ease-in-out infinite 0s;
 	background-blend-mode: multiply;
-	-webkit-box-shadow: inset 0px 0px 0px 9px rgba(255, 180, 0, .5);
-	-moz-box-shadow: inset 0px 0px 0px 9px rgba(255, 180, 0, .5);
-	box-shadow: inset 0px 0px 0px 9px rgba(255, 180, 0, .5);
+	-webkit-box-shadow: inset 0px 0px 0px 9px rgba(250, 91, 15, .5);
+	-moz-box-shadow: inset 0px 0px 0px 9px rgba(250, 91, 15, .5);
+	box-shadow: inset 0px 0px 0px 9px rgba(250, 91, 15, .5);
 	-webkit-animation: morph 8s ease-in-out infinite 0s;
 }
 
@@ -1810,7 +1810,7 @@ body.light hr.separator {
   display: block;
   width: 80px;
   height: 80px;
-  background-color: rgba(255, 180, 0, .1);
+  background-color: rgba(250, 91, 15, .1);
   bottom: -150px;
   -webkit-animation: square 50s infinite;
   animation: square 50s infinite;
@@ -1989,8 +1989,8 @@ body.light hr.separator {
 	background-blend-mode: multiply;
 	-webkit-box-shadow: inset 0px 0px 0px 9px 
   ;
-	-moz-box-shadow: inset 0px 0px 0px 9px rgba(255, 180, 0, .5);
-	box-shadow: inset 0px 0px 0px 9px rgba(255, 180, 0, .5);
+	-moz-box-shadow: inset 0px 0px 0px 9px rgba(250, 91, 15, .5);
+	box-shadow: inset 0px 0px 0px 9px rgba(250, 91, 15, .5);
 	-webkit-animation: morph 6s ease-in-out infinite 0s;
 }
 
